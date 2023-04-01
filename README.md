@@ -28,7 +28,7 @@ From the root folder, start the project by running:
 # Installation (Back-end API)
 
 ## Clone the repository
-> https://github.com/growthpal/fe-assignment
+> git clone https://github.com/growthpal/fe-assignment
 
 ## Dependencies Installation
 > npm install
