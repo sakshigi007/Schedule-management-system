@@ -31,7 +31,6 @@ From the root folder, start the project by running:
 > git clone https://github.com/growthpal/fe-assignment
 
 ## Dependencies Installation
-> npm install
 > npm install cors express mongodb
 
 ## Add these variables in server.js file
