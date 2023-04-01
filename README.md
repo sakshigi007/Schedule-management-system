@@ -12,7 +12,7 @@ In this project, I have created various ReactJS based components namely:
 10. View meetings for particular users
 11. View meetings for particular rooms
 
-# Installation
+# Installation (Front-end)
 
 ## Clone this repository
 > git clone https://github.com/sakshigi007/fe-assignment-growthpal
@@ -20,6 +20,23 @@ In this project, I have created various ReactJS based components namely:
 ## Dependencies Installation
 On the project root folder, run:
 > npm install
+
+## Run the services on localhost
+From the root folder, start the project by running:
+> npm start
+
+# Installation (Back-end API)
+
+## Clone the repository
+> https://github.com/growthpal/fe-assignment
+
+## Dependencies Installation
+> npm install
+> npm install cors express mongodb
+
+## Add these variables in server.js file
+> const cors =require('cors')
+> app.use(cors({origin:"*"}))
 
 ## Run the services on localhost
 From the root folder, start the project by running:
