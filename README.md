@@ -1,4 +1,4 @@
-# FE-Assignment-Growthpal-By Sakshi
+# Zoom app for user, rooms and meeting creations
 In this project, I have created various ReactJS based components namely:
 1. Add Users
 2.  View list of Users
